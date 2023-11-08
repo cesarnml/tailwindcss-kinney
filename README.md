@@ -10,8 +10,8 @@
 - [ ] Lesson 03
 - [ ] Lesson 04
 - [ ] Lesson 05
-
 ## Notes
 
 - Lesson 01:
-  - 
+  - Utility-First CSS paradigm
+  -  
